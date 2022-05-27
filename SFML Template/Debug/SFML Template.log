@@ -1,0 +1,7 @@
+﻿  Bird.cpp
+  GameState.cpp
+C:\Users\mohammed\Desktop\SFML GROUP 1\SFML Template\GameState.cpp(115): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mohammed\Desktop\SFML GROUP 1\SFML Template\GameState.cpp(129): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mohammed\Desktop\SFML GROUP 1\SFML Template\GameState.cpp(145): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  SFML Template.vcxproj -> C:\Users\mohammed\Desktop\SFML GROUP 1\SFML Template\Debug\SFML Template.exe
